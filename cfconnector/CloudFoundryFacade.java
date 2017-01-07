@@ -1,4 +1,4 @@
-package com.swisscom.monitoring.sla.dynstrg.cloudfoundry.facade;
+package default;
 
 import lombok.extern.log4j.Log4j;
 import org.cloudfoundry.operations.DefaultCloudFoundryOperations;
